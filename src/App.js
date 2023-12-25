@@ -42,8 +42,7 @@ function App() {
                   api_key={api_key}
                   requests={requests}
                   slideShowUrl={`
-                  https://api.themoviedb.org/3/movie/popular?api_key=0c3e0144ff8847e74309778b7b3946cd&language=en-US&page=1
-`}
+                  https://api.themoviedb.org/3/movie/popular?api_key=0c3e0144ff8847e74309778b7b3946cd&language=en-US&page=1`}
                 />
               )}
             />

@@ -28,11 +28,11 @@ const Header = () => {
               <div className="textLink">Movies</div>
             </a>
           </div>
-          {/* <div className="navLinks">
+          { <div className="navLinks">
             <a href="/">
               <div className="textLink">Kids</div>
             </a>
-          </div> */}
+          </div> }
         </div>
       </div>
 
